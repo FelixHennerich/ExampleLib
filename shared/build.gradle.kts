@@ -7,7 +7,6 @@ plugins {
 group = "com.github.examplelib"
 version = "0.0.1"
 
-
 val GITHUB_USER: String = "felixhennerich"
 val GITHUB_TOKEN: String = "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"
 
